@@ -1,0 +1,6 @@
+------------------------\n
+§lServerTools v1.0.0 released!§r\n
+What's new:\n
+You can edit Plugins (unload, load and restart them)\n
+Update now at github.com/Survingo/ServerTools/releases\n
+------------------------
