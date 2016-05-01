@@ -1,1 +1,2 @@
-The update v1.1.0 build 1 includes the new Auto Updater, commands and more. Note: This is the pre-release for v1.1.0. Report Bugs in the Issues section.
+The new v1.1.0 build 1 includes the new Auto Updater, commands and more. Note: This is the pre-release for v1.1.0. Report Bugs in the Issues section.\n\n
+§eUpdate now at §ahttps://github.com/Survingo/ServerTools/releases
